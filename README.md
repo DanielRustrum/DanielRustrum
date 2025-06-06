@@ -48,9 +48,9 @@ A Chrome extension for detecting ADA compliance issues in images and text overla
 ## 📫 Get in Touch
 Have an idea, job opportunity, or just want to chat about code, QA, or game engines?
 
-📧 daniel.rustrum@gmail.com
-🐦 @HMNIRusty
-🌍 daniel.rustrum.net
+- 📧 daniel.rustrum@gmail.com
+- 🐦 @HMNIRusty
+- 🌍 daniel.rustrum.net
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DanielRustrum&show_icons=true&theme=github_dark" /> </p>
