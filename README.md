@@ -31,6 +31,8 @@ Frameworks:    React | Vite | Node.js | Electron | Howler.js
 Tools:         Git | Docker | Jest | Playwright | Tesseract.js | CoreMedia
 Testing:       Manual QA | Automation | Accessibility | CI/CD Pipelines
 ```
+
+
 ## 📦 Featured Projects
 ### 🚀 WorkerBox
 A type-safe utility for managing Web Workers with subscription & messaging APIs.
@@ -40,6 +42,8 @@ A dynamic React charting component powered by audio input & frame-accurate updat
 
 ### 🧪 Accessibility Analyzer Extension
 A Chrome extension for detecting ADA compliance issues in images and text overlays.
+
+
 
 ## ✍️ Latest Writing
 🔗 [Don't Lock Users Out – A Practical Guide to Accessibility for Devs](https://dev.to/himynameisrusty/dont-lock-users-out-a-practical-guide-to-accessibility-for-devs-4j0c)
