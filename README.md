@@ -8,6 +8,7 @@
   <a href="mailto:daniel.rustrum@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%23dd4b39.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/danielrustrum"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codepen.io/DanielRustrum"><img alt="CodePen" src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white"/></a>
+   <a href="https://daniel.rustrum.net"><img alt="Website" src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
@@ -53,9 +54,8 @@ A Chrome extension for detecting ADA compliance issues in images and text overla
 ## 📫 Get in Touch
 Have an idea, job opportunity, or just want to chat about code, QA, or game engines?
 
-- 📧 daniel.rustrum@gmail.com
+- 📧 daniel@rustrum.net
 - 🐦 @HMNIRusty
-- 🌍 daniel.rustrum.net
 
 ---
 
