@@ -50,5 +50,7 @@ Have an idea, job opportunity, or just want to chat about code, QA, or game engi
 
 📧 daniel.rustrum@gmail.com
 🐦 @HMNIRusty
-🌍 danielrustrum.dev (Coming soon!)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DanielRustrum&show_icons=true&theme=github_dark" /> </p> ```
+🌍 daniel.rustrum.net
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DanielRustrum&show_icons=true&theme=github_dark" /> </p>
