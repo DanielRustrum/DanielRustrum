@@ -31,3 +31,24 @@ Frameworks:    React | Vite | Node.js | Electron | Howler.js
 Tools:         Git | Docker | Jest | Playwright | Tesseract.js | CoreMedia
 Testing:       Manual QA | Automation | Accessibility | CI/CD Pipelines
 ```
+## 📦 Featured Projects
+### 🚀 WorkerBox
+A type-safe utility for managing Web Workers with subscription & messaging APIs.
+
+### 🎧 Real-time Audio Visualization (WIP)
+A dynamic React charting component powered by audio input & frame-accurate updates.
+
+### 🧪 Accessibility Analyzer Extension
+A Chrome extension for detecting ADA compliance issues in images and text overlays.
+
+## ✍️ Latest Writing
+🔗 Don't Lock Users Out – A Practical Guide to Accessibility for Devs
+🔗 The Automation Wall – When to Stop Automating and Start Thinking
+
+## 📫 Get in Touch
+Have an idea, job opportunity, or just want to chat about code, QA, or game engines?
+
+📧 daniel.rustrum@gmail.com
+🐦 @HMNIRusty
+🌍 danielrustrum.dev (Coming soon!)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DanielRustrum&show_icons=true&theme=github_dark" /> </p> ```
