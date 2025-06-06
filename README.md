@@ -42,9 +42,9 @@ A dynamic React charting component powered by audio input & frame-accurate updat
 A Chrome extension for detecting ADA compliance issues in images and text overlays.
 
 ## ✍️ Latest Writing
-[🔗 Don't Lock Users Out – A Practical Guide to Accessibility for Devs](https://dev.to/himynameisrusty/dont-lock-users-out-a-practical-guide-to-accessibility-for-devs-4j0c)
+🔗 [Don't Lock Users Out – A Practical Guide to Accessibility for Devs](https://dev.to/himynameisrusty/dont-lock-users-out-a-practical-guide-to-accessibility-for-devs-4j0c)
 
-[🔗 Handling Contrast on the Web](https://medium.com/@danieltrustrum/handling-contrast-on-the-web-6b350ce08e2d)
+🔗 [Handling Contrast on the Web](https://medium.com/@danieltrustrum/handling-contrast-on-the-web-6b350ce08e2d)
 
 ## 📫 Get in Touch
 Have an idea, job opportunity, or just want to chat about code, QA, or game engines?
@@ -53,5 +53,6 @@ Have an idea, job opportunity, or just want to chat about code, QA, or game engi
 - 🐦 @HMNIRusty
 - 🌍 daniel.rustrum.net
 
+---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DanielRustrum&show_icons=true&theme=github_dark" /> </p>
