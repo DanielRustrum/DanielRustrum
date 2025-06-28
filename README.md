@@ -38,8 +38,8 @@ Testing:       Manual QA | Automation | Accessibility | CI/CD Pipelines
 ### 🚀 WorkerBox
 A type-safe utility for managing Web Workers with subscription & messaging APIs.
 
-### 🎧 Real-time Audio Visualization (WIP)
-A dynamic React charting component powered by audio input & frame-accurate updates.
+### 🎮 React Game Dev Template
+A modern React starter kit for building browser games with flexible state management, built-in build system, and easy asset handling.
 
 ### 🧪 Accessibility Analyzer Extension
 A Chrome extension for detecting ADA compliance issues in images and text overlays.
