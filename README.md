@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Daniel Rustrum 👋</h1>
 
 <p align="center">
-  🎯 Full-Stack QA Engineer • 🧪 Accessibility Advocate • 🛠️ Web Developer • 🎮 Audio & Game Tech Explorer
+  🎯 Quality Assurance Analyst • 🧪 Accessibility Advocate • 🛠️ Web Developer • 🎮 Game Developer
 </p>
 
 <p align="center">
